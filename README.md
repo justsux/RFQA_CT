@@ -1,18 +1,18 @@
 # RFQA Connection Tester
-This tool could be helpful when you are trying to figure out the level of your connection with Rainforest' Terminals. 
+This tool can be helpful when you are trying to figure out your level of connection with Rainforest' Terminals.
 
-Basically, it's a simple cmd wrapper so people can use commands like ping and tracert without getting a headache. Simply and straightforward by pressing one of the buttons.
+Basically, it's a simple cmd wrapper so people can use commands like ping and tracert without getting a headache. Simply and straightforwardly by pressing one of the buttons.
 
 ![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/eedd4b6b79cbf6af9441b199a8da5f473d978600.png)
 
 
-Here is the short explanation of the features:
+Below is a short explanation of the features:
 
-1. **FULL SCAN** - scan the list of RF terminals (up to 125) and get an information to judge if the terminal you are having an issue with online or not.
+1. **FULL SCAN** - scans the list of RF terminals (up to 125)  to judge if you are having an issue with the online terminal  or not.
 
-2. **PING** - ping the chosen terminal ten times so you can see the min/max/average ping and a number of lost packets. The lower number - the better. Numbers to consider as relevant - anything from 5ms to 400ms (5-50ms - excellent, 51-100ms - great, 101-200 - okay, 201-300 - fair, 301-400 still legit). Anything higher than that could cause a huge drop of packets which can make your testing a living hell.
+2. **PING** - pings the chosen terminal ten times so you can see the min/max/average ping and the number of lost packets. The lower number - the better. Numbers to consider as relevant is anything from 5ms to 400ms (5-50ms - excellent, 51-100ms - great, 101-200 - okay, 201-300 - fair, 301-400 still legit). Anything higher than that can cause a huge drop in packets which can make testing a living hell.
 
-3. **TRACE** - trace the route between you and the terminal and see a number of hops. The fewer hops you have - the better. It will visualize the whole path so you can see where exactly is your problem comes from. Route example: IP of your router -> IP of your ISP router(s) -> IP from some random country(s) -> RF terminal.
+3. **TRACE** - traces the route between you and the terminal and checks the number of hops. The fewer hops you have - the better. It will visualize the whole path so you can see where exactly is your problem comes from. Route example: IP of your router -> IP of your ISP router(s) -> IP from some random country(s) -> RF terminal.
 
 4. **Custom domain/IP** field. Just put any other address that you want to test. For example, google's anycast 8.8.8.8 and check you ping with their closest public DNS. You can also put rainforestqa.com and see what is your current connection with the portal/forum/site. Could be useful when you are having an issue creating a new thread on the forum. To make sure that the issue is actually on RF's side and not because of your own connection.
 
