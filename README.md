@@ -24,6 +24,7 @@ First press the **FULL SCAN** button, to see how the whole network looks from yo
 
 I bet all of us seen some errors while using the testing client. One of those is the **Error #2048**.
 
+
 ![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/2b7b2cdfdfd83584f28954f0f0ec59d2ea49cb28.png)
 On the screenshot above you may notice that one is trying to connect to the VM #20 (020).
 
@@ -34,5 +35,6 @@ After getting the basic idea of how the whole network looks like from your side,
 
 If results of the ping command aren't great, you want to trace the route by pressing the **TRACE** button.
 Numbers inside rectangles represent the number of hops. In this particular example, the VM was reached in 8 hops. Remember: The fewer hops - the better.
+
 ![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/155f7dcd646990ffff2a7befcb9b4b97e577f49c.png)
 
