@@ -1,0 +1,18 @@
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\obj\Debug\RFQA ConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\obj\Debug\RFQA_ConnectionTest.Properties.Resources.resources
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\obj\Debug\RFQA ConnectionTest.csproj.GenerateResource.Cache
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\obj\Debug\RFQA_ConnectionTest.Form1.resources
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\bin\Debug\RFQA Connection Test.exe.config
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\bin\Debug\RFQA Connection Test.exe
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\bin\Debug\RFQA Connection Test.pdb
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\obj\Debug\RFQA Connection Test.exe
+C:\Users\win8x\Documents\Visual Studio 2015\Projects\RFQA ConnectionTest\RFQA ConnectionTest\obj\Debug\RFQA Connection Test.pdb
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\bin\Debug\RFQA Connection Test.exe.config
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\obj\Debug\RFQA Connection Test.exe
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\obj\Debug\RFQA Connection Test.pdb
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\bin\Debug\RFQA Connection Test.exe
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\bin\Debug\RFQA Connection Test.pdb
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\obj\Debug\RFQA ConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\obj\Debug\RFQA_ConnectionTest.Form1.resources
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\obj\Debug\RFQA_ConnectionTest.Properties.Resources.resources
+C:\Users\win8x\Desktop\rfqact_source\RFQA ConnectionTest\obj\Debug\RFQA ConnectionTest.csproj.GenerateResource.Cache
