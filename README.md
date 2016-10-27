@@ -3,7 +3,7 @@ This tool could be helpful when you are trying to figure out the level of your c
 
 Basically, it's a simple cmd wrapper so people can use commands like ping and tracert without getting a headache. Simply and straightforward by pressing one of the buttons.
 
-![first](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/eedd4b6b79cbf6af9441b199a8da5f473d978600.png)
+![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/eedd4b6b79cbf6af9441b199a8da5f473d978600.png)
 
 
 Here is the short explanation of the features:
@@ -24,13 +24,15 @@ First press the **FULL SCAN** button, to see how the whole network looks from yo
 
 I bet all of us seen some errors while using the testing client. One of those is the **Error #2048**.
 
-rnfrst-forum-uploads.s3.amazonaws.com/original/1X/2b7b2cdfdfd83584f28954f0f0ec59d2ea49cb28.png
+![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/2b7b2cdfdfd83584f28954f0f0ec59d2ea49cb28.png)
 On the screenshot above you may notice that one is trying to connect to the VM #20 (020).
 
 After getting the basic idea of how the whole network looks like from your side, you want to pick the VM you want to test from the list (e.g. @rf_VM [020]) and then press the **PING** button to check the number of lost packets and your average ping with the VM.
 
-rnfrst-forum-uploads.s3.amazonaws.com/original/1X/563713d58be7cb245d197126325cc29b6ec9b1b4.png
+![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/563713d58be7cb245d197126325cc29b6ec9b1b4.png)
+
 
 If results of the ping command aren't great, you want to trace the route by pressing the **TRACE** button.
 Numbers inside rectangles represent the number of hops. In this particular example, the VM was reached in 8 hops. Remember: The fewer hops - the better.
-<img src="//rnfrst-forum-uploads.s3.amazonaws.com/original/1X/155f7dcd646990ffff2a7befcb9b4b97e577f49c.png" width="690" height="240">
+![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/155f7dcd646990ffff2a7befcb9b4b97e577f49c.png)
+
