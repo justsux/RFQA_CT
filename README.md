@@ -26,6 +26,7 @@ I bet all of us seen some errors while using the testing client. One of those is
 
 
 ![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/2b7b2cdfdfd83584f28954f0f0ec59d2ea49cb28.png)
+
 On the screenshot above you may notice that one is trying to connect to the VM #20 (020).
 
 After getting the basic idea of how the whole network looks like from your side, you want to pick the VM you want to test from the list (e.g. @rf_VM [020]) and then press the **PING** button to check the number of lost packets and your average ping with the VM.
