@@ -39,4 +39,4 @@ Numbers inside rectangles represent the number of hops. In this particular examp
 
 ![screen](http://rnfrst-forum-uploads.s3.amazonaws.com/original/1X/155f7dcd646990ffff2a7befcb9b4b97e577f49c.png)
 
-DOWNLOAD: (https://github.com/justsux/RFQA_CT/releases/tag/v "CLICK")
+DOWNLOAD: ![Alt text](https://github.com/justsux/RFQA_CT/releases/tag/v "CLICK")
